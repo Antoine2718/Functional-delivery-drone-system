@@ -2,7 +2,7 @@
 
 # Simulation-of-a-delivery-drone-system
 
-[![OCaml](https://img.shields.io/badge/OCaml-%23EC6813.svg?&logo=ocaml&logoColor=white)](https://ocaml.org)
+![OCaml](https://img.shields.io/badge/OCAML-%23EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 
 Important : Seulement à but pédagogique et de simulation
 
